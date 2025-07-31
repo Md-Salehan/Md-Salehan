@@ -55,11 +55,31 @@
 
 <h2 align="left">Experience</h2>
 
+
 ###
 
-- 🔧 **Semaphore Computers Pvt Ltd (2024-Present)** — React Developer building scalable apps for 25K+ users (WB Govt).
-- 💼 **Sutherland Global Service (2023-2024)** — React Developer with Ant Design, RESTful APIs, 5000+ daily users.
-- 👨‍💻 **The Techie Indians (2021-2022)** — Full Stack Intern, worked on MERN APIs and UI performance.
+🔧 **Semaphore Computers Pvt Ltd** – Frontend Developer (React.js)  
+_Nov 2024 – Present_  
+- 🏛️ Spearheaded the development of internal government web apps for WBPHED, impacting 25,000+ users across departments.  
+- 🧱 Engineered a reusable, API-driven form system that cut form build time by 50% and ensured UI consistency across modules.  
+- ⚙️ Boosted performance by 30% via lazy loading, memoization, and virtualized lists, drastically improving initial load times and responsiveness.  
+- 🧪 Achieved 95%+ automated test pass rate by coordinating with QA teams and enforcing best testing practices.  
+- 📚 Authored clean, well-documented codebases and onboarding docs that reduced ramp-up time for new developers by 60%.  
+
+🔧 **Sutherland Global Service** – Frontend Developer (React.js)  
+_Aug 2023 – Sep 2024_  
+- 🚀 Delivered a production-grade dashboard used by 5,000+ daily users, integrating 10+ APIs and ensuring real-time data accuracy.  
+- ♻️ Built 20+ reusable components with optimized Redux architecture, reducing code duplication by 30% and increasing feature delivery speed by 40%.  
+- ⚡ Improved app load performance by 45% using lazy loading, memoization, and code splitting—reducing load time from 6s to under 3.5s.  
+- ✅ Maintained 100% regression test pass rate and 95%+ UI/UX accuracy through rigorous QA collaboration.  
+- 📈 Played a key role in launching 8+ features per quarter, contributing to rapid product iteration and improved user retention.  
+
+🔧 **The Techie Indians** – Full Stack Developer Intern (MERN Stack)  
+_Sep 2021 – Mar 2022_  
+- 🔌 Developed scalable RESTful APIs using Node.js and Express.js, improving backend response times by 40% and streamlining frontend integration.  
+- 🧩 Built responsive UI components using React.js, Redux, and Material-UI, reducing average component load times by 20%.  
+- 📈 Improved data handling efficiency by 35% across the app, leading to a smoother user experience and lower bounce rates.  
+- 🔁 Practiced Agile workflows, delivering features in short sprints while collaborating with designers and backend developers.
 
 ###
 
